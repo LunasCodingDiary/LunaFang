@@ -1,7 +1,7 @@
 <h1 align="center">Hi, My Name is Luna Fang 😊</h1>
 <h3 align="center">I'm a Full-Stack Web Application Developer and a Film Sales Professional.</h3>
 
-<h3 align="center">📧 How to reach me **lunafang@seas.upenn.edu**<h3 align="center">
+📧 How to reach me **lunafang@seas.upenn.edu** 
 
 <h3 align="left">Connect with me here 👇</h3>
 <p align="left">
