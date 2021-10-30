@@ -1,5 +1,5 @@
 <h1 align="center">Hi, My Name is Luna Fang 😊</h1>
-I'm a Full-Stack Web Application Developer and a Professional Film Sales and Filmmaker.
+I'm a Full-Stack Web Application Developer and a Film Sales Professional.
 
 - 📧 How to reach me **lunafang@seas.upenn.edu**
 
