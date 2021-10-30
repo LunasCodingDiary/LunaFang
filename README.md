@@ -1,7 +1,8 @@
 <h1 align="center">Hi 😊, My Name is Luna Fang</h1>
-I'm a Full-Stack Web Application Developer and a Filmmaker.  
-📧 How to reach me **lunafang@seas.upenn.edu**
-Connect with me here 👇
+I'm a Full-Stack Web Application Developer and a Filmmaker.
+
+📧 How to reach me ** lunafang@seas.upenn.edu **
+
 <h3 align="left">Connect with me here 👇</h3>
 <p align="left">
 <a href="https://instagram.com/lunamoments" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.maaz.azhar" height="30" width="40" /></a>
