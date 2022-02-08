@@ -1,5 +1,5 @@
 <h1 align="center">Hi, My Name is Luna Fang 😊</h1>
-<h3 align="center">I'm a Backend Software Developer with past professional experience in Film and Media.</h3>
+<h3 align="center">I'm a Backend Software Developer with past experience in Film Production. Current Areea of Interest: Blockchain and Web 3 </h3>
 
 📧 How to reach me **lunafang@seas.upenn.edu** 
 
