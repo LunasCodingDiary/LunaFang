@@ -1,5 +1,5 @@
 <h1 align="center">Hi, My Name is Luna Fang 😊</h1>
-<h3 align="center">I'm a Software Developer with past experience in Film Production. </h3>
+<h3 align="center">I'm a Software Engineer with past experience in Film Production. </h3>
 
 📧 How to reach me **lunafang@seas.upenn.edu** 
 
